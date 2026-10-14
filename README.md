@@ -1,0 +1,2 @@
+# AiPractice
+Learn for Ai
